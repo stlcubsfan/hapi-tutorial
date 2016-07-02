@@ -1,0 +1,25 @@
+{
+  "name": "hapi-tutorial",
+  "version": "0.0.1",
+  "description": "Tutorial from hapijs.com/tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stlcubsfan/hapi-tutorial.git"
+  },
+  "author": "stlcubsfan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stlcubsfan/hapi-tutorial/issues"
+  },
+  "homepage": "https://github.com/stlcubsfan/hapi-tutorial#readme",
+  "dependencies": {
+    "good": "^7.0.1",
+    "good-console": "^6.1.2",
+    "good-squeeze": "^4.0.0",
+    "hapi": "^13.4.1"
+  }
+}
